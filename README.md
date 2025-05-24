@@ -36,6 +36,12 @@ Data Preprocessing:
 --Filtering: Removing short words and common stopwords
 --Case normalization: Converting words to lowercase
 
+How to Run:
+-Login to Databrick
+-start the cluster
+-install libraries- Maven->Spark packages->graphframes:graphframes:0.8.4-spark3.5-s_2.12->install now
+-run the cells
+
 Acknowledgments
 This project uses content from Project Gutenberg under its public domain policy.
 Special thanks to contributors Aylmer Maude, Louise Maude, and David Widger for their efforts in translation and digitization.
