@@ -1,11 +1,12 @@
 Dataset:
 
---Project1:Question1:Dataset: downloaded the dataset from at:Bureau of Transportation
-Website. 
+--Project1:Question1:Dataset: 
+
+downloaded the dataset from at:Bureau of Transportation Website. 
 
 --Link to the dataset: https://drive.google.com/file/d/1GWzbxRV7Ib6bMegAdbsXvCSiDZjcKhDj/view?usp=sharing
 
-Dataset Project1-Question2: 
+--Project1-Question2:Dataset: 
 
 The dataset is from Kaggle. It contains 14,000+ tweets posted US customers. It includes 6 different airlines-Virgin America, United, Southwest, Delta, US Airways and  American Airlines. 
 
