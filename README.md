@@ -46,7 +46,7 @@ I used the library-graphframe.
 
 Question2:
 
-1)do the same steps (steps 1-5) as Project2-Question 1)
+1)do the same steps (steps 1-5) as Project1-Question 1)
 
 2)paste this "org.apache.spark:spark-graphx_2.12:3.4.0" on the spark package
 
